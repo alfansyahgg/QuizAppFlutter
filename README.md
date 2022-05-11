@@ -1,6 +1,6 @@
-# first_app
+# Quiz App
 
-A new Flutter project.
+Part of my flutter learning course from udemy.
 
 ## Getting Started
 
